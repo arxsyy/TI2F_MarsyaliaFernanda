@@ -95,6 +95,10 @@ switch ($action) {
         include 'views/salary_stats.php';
         break;
 
+    case 'tenure_stats':
+        include 'views/tenure_stats.php';
+        break;
+
     default:
         $dashboard = $employeeModel->getDashboardSummary();
         include 'views/dashboard.php';
