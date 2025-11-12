@@ -20,6 +20,7 @@
             <a href="index.php?action=department_stats" class="nav-link">Statistik Departemen</a>
             <a href="index.php?action=salary_stats" class="nav-link">Statistik Gaji</a>
             <a href="index.php?action=tenure_stats" class="nav-link">Masa Kerja</a>
+            <a href="index.php?action=employee_overview" class="nav-link">Ringkasan Karyawan</a>
             <a href="index.php?action=refresh" class="nav-link">Refresh Dashboard</a>
         </nav>
 
